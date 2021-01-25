@@ -74,7 +74,7 @@
 - git remote rm origin
 - git remote add origin   后面输入github上的ssh地址 
 
-
+## 其他人修改
 
 
 
