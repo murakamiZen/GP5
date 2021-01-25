@@ -43,5 +43,9 @@
 - git reflog  简单版日志
 
 ## 版本回退
-- git reset --hard HEAD^ 回退到上一个版本
-- git reset --hard HEAD 版本号
+- git reset --hard HEAD^   回退到上一个版本
+- git reset --hard HEAD 版本号  回退到指定版本
+- 注意把当前代码先提交到本地仓库
+- 工作区的代码自动变成恢复的工作版本
+
+
