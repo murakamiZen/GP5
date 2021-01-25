@@ -89,6 +89,11 @@
 - git branch 新分支名   创建一个新分支
 - git checkout 分支名
 
+## 忽略列表
+- 在项目中创建文件  .gitignore
+- 把不需要提交到远程仓库的文件或目录写在忽略列表中
+
+
 ## test分支
 - 添加内容
 - murakami
