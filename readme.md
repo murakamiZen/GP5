@@ -74,6 +74,9 @@
 - git remote rm origin
 - git remote add origin   后面输入github上的ssh地址 
 
+## 更新代码
+- 确保自己工作区的代码先提交到本地仓库
+- 再从远程更新到本地
 
 
 
