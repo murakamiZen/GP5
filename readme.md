@@ -48,4 +48,34 @@
 - 注意把当前代码先提交到本地仓库
 - 工作区的代码自动变成恢复的工作版本
 
+## 查看变动
+- git diff 文件名
+- 会列出该文件前后的差异
+
+## 创建远程仓库
+- 进入 github官网
+- 创建一个新的远程仓库
+
+## 将本地仓库与远程仓库关联
+- git remote add origin 你的远程仓库地址 （origin是变量，可添加多个远程仓库）
+- git remote -v   查看关联的远程仓库地址
+
+## 将本地仓库提交到远程仓库
+- git push -u origin master 第一次提交到远程
+- git push  之后提交的远程
+- -u origin master 设置为默认的地址
+
+## 正常提交 (非第一次)
+- git add .   提交到暂存区
+- git commit -m '注释'   提交到本地仓库
+- git push 提交到origin上的master分支
+
+
+
+
+
+
+
+
+
 
