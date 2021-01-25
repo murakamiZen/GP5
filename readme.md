@@ -88,6 +88,10 @@
 - 当前分支名前有个星号*
 - git branch 新分支名   创建一个新分支
 - git checkout 分支名
+- git merge 分支名  合并某分支到当前分支
+- git branch -d 分支名  删除某分支
+- git push origin 分支名 
+
 
 ## test分支
 - 添加内容
