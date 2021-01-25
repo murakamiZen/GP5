@@ -70,6 +70,11 @@
 - git commit -m '注释'   提交到本地仓库
 - git push 提交到origin上的master分支
 
+## 修改关联的远程仓库地址
+- git remote rm origin
+- git remote add origin   后面输入github上的ssh地址 
+
+
 
 
 
