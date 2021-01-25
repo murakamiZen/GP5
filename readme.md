@@ -38,4 +38,10 @@
 2. git add .
 3. git commit -m '注释'
 
+## 查看日志
+- git log  完整版日志
+- git reflog  简单版日志
 
+## 版本回退
+- git reset --hard HEAD^ 回退到上一个版本
+- git reset --hard HEAD 版本号
